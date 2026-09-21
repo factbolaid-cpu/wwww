@@ -1315,7 +1315,7 @@ https://key.iontv.id/drm/cubmu.php?play=2262
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8DPYGd9rW1sT3BK70mhEnU9tYYgrY6wFHy7HIIrbvKnB_9uBaEJXPEXAPYgQ5QyRGEKhYIhqs_qLjzeWMaB36qKWUGFJN6cK7BkXFG85JOwRd5Yi6hOBFXsVXyNYKX9KwE5vbPlNDR_EujyMO2Ii5Z2wjdNtW0oOkfotC37QgwuN3yrYVWXwPPX1L8_ss/s1600/20190829060720.jpg" group-title="Blockbuster" server="SUB INDO" event-duration="4",CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd59de1eba765e:4abf1fd26e8c45a5b6bae60cfffc29
 https://key.iontv.id/drm/cubmu.php?play=190
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8DPYGd9rW1sT3BK70mhEnU9tYYgrY6wFHy7HIIrbvKnB_9uBaEJXPEXAPYgQ5QyRGEKhYIhqs_qLjzeWMaB36qKWUGFJN6cK7BkXFG85JOwRd5Yi6hOBFXsVXyNYKX9KwE5vbPlNDR_EujyMO2Ii5Z2wjdNtW0oOkfotC37QgwuN3yrYVWXwPPX1L8_ss/s1600/20190829060720.jpg" group-title="Blockbuster" server="SUB THAILAND" event-duration="4",CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1323,7 +1323,7 @@ https://key.iontv.id/drm/cubmu.php?play=190
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 #EXTINF:-1 tvg-name="KBS World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvie4DVu2DD7NgoqSrYAppZaZNxafB0kE0H7KLjB263g&s=10" group-title="Blockbuster" event-duration="4",KBS World
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217eeba765e:4abf1fd26e8c45a5b6baef6ffc2b9
 https://key.iontv.id/drm/cubmu.php?play=2263
 #EXTINF:-1 tvg-name="MNX Hollwood's Wildchild" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhBHjutA1ephHT02iQKUU15682sFIuj3qHKOU8oZCGWnZy_MDv13pY6qulciK-qsAdsTPa92RqoFROnTve35OuNd1KpJR7Fr4DXD4Swh_yIvud7EGpxkA08_yv8SOKm5IZet8JdC4Sm-YS_LWuiinpkmMxITmcUiZnGx0sHTIZAVKC7hMgvvCWviegdLYSD" group-title="Blockbuster" event-duration="4",MNX Hollwood's Wildchild
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
