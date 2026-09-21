@@ -1,40 +1,4 @@
-#EXTINF:-1 tvg-id="HBOFamilyAsia.sg@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Familly-180x180_2025_11_05_11_14_46.jpg",HBO Family
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
-
-#EXTINF:-1 tvg-id="HBOHitsAsia.sg@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Hits-180x180_2025_11_05_11_23_20.jpg",HBO Hits
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPIEhpdHM/manifest.mpd
-
-#EXTINF:-1 tvg-id="HBOSignatureAsia.sg@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Signature-180x180_2025_11_05_12_57_49.jpg",HBO Signature
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd
-
-#EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg",CINEMAX
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/Q2luZW1heA/manifest.mpd
-
-#EXTINF:-1 tvg-id="HBOAsia.sg@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg",HBO
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPLW15/manifest.mpd
-
 #EXTM3U
-#EXTINF:-1 tvg-name="LIBUR DULU CAPEK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfPvOa57wZ803sgOOitXHhkiW5Y7yab9iAmsPa8RLu1g&s=10" group-title="Events" server="Al Quran Al Kareem" event-name="OFF" event-time="2027-09-13T14:28" event-duration="1",LIBUR DULU CAPEK | â³ JADWAL OFF (14:28 WIB - 13 Sep)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d856bf85229c4a42a7b0de45e4c91a31:5633e069ef585f73ccfe2dd6a85a6f48
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
 #EXTINF:-1 tvg-name="Moto4 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqT3PoCGQbpd9m_cKSYoOQWiy_JfN8kEIFIQzZ3jpEqQ&s=10" group-title="Events" server="Spotv 2" event-name="Great Britain - Tissot Sprint" event-time="2026-08-08T22:00" event-duration="3",Moto4 2026 | Great Britain - Tissot Sprint (22:00 WIB - 8 Agu)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
@@ -59,23 +23,12 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1532831&ex
 #EXTVLCOPT:http-origin=https://saka.kpores.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-#EXTINF:-1 tvg-name="Carabao Cup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPUXlPhSSXjHB9YLFunKSRuFpSm6XRdeysrnrw-s5SQ&s=10" group-title="Events" server="cbs" event-name="Fulham vs AFC Wimbledon" event-time="2026-08-28T02:00" event-duration="2",Carabao Cup | Fulham vs AFC Wimbledon (02:00 WIB - 28 Agu)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 tvg-name="Moto2 2026" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgnHyUYL03av7VFU7y8Tl4xggj8HzOLvVPV7vQWFjAvA-gqCJIoxW8SH2TzGzz78AKnl6rnaRMbe0r0vDWfdGEFQbovuKB06yeW90NHz-pVs1DVSouhXefvgqKItZyeSPRLvL_ISyY677lKnWKL75ZDuXBL5OhkT8YaQiF_mrPyxFvQ9dHaKalBk5e_Ehn0" group-title="Events" server="SPOTV 2 ID" event-name="Moto2 Practice: Michelin Grand Prix of Aragon" event-time="2026-08-28T20:00" event-duration="2",Moto2 2026 | Moto2 Practice: Michelin Grand Prix of Aragon (20:00 WIB - 28 Agu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=78&key=sdfknhfbnjwenfewbfj43244444554354233
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-#EXTINF:-1 tvg-name="MotoGP 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIagloQvySI7GyUweopqlfkQdO0pV9Lj_-MCw4hJEGw&s=10" group-title="Events" server="Spotv 2 HD" event-name="MotoGP Tissot SPRINT" event-time="2026-08-29T05:12" event-duration="3",MotoGP 2026 | MotoGP Tissot SPRINT (05:12 WIB - 29 Agu)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
-#EXTVLCOPT:http-origin=https://cignalplay.com
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #EXTINF:-1 tvg-name="Pre-season Friendly Match" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYxOEOImv3kAPmtjUNotJLkqHC_Pq19lpf8F684AirhBr6EBmhfdrbLp17APn7mDpxsoaBpgeF353Yab59R1HD9wpdMbuHhaflvB-UOsmOvBlSNeLtHnn07DPuldDtp9Qkh14gXNY7VPs58AkFshH263T3BMxo50sL6eLBvuz7L0iFQOmxnBsNkfw5UQDU/s320/images%20(5).jpg" group-title="Events" event-name="Persija Jakarta vs Brisbane Roar" event-time="2026-08-29T20:00" event-duration="2",Pre-season Friendly Match | Persija Jakarta vs Brisbane Roar (20:00 WIB - 29 Agu)
 https://www.youtube.com/watch?v=VPjAZuczbKc
 #EXTINF:-1 tvg-name="Coppa Italia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Td3p9WyFeiDgb5DLI9wVsnC7w1mxwS4IdWhY6RN7xA&s=10" group-title="Events" server="cbs" event-name="Sassuolo vs Frosinone" event-time="2026-09-02T20:00" event-duration="2",Coppa Italia | Sassuolo vs Frosinone (20:00 WIB - 2 Sep)
@@ -87,8 +40,6 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 tvg-name="AFC U-20 Asian Cup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXAIIOSAmqJF1-XFNhlMDndElCnmmttQcGXM4eaF9AA&s" group-title="Events" event-name="Bhutan U20 vs Chinese Thaipei U20" event-time="2026-09-03T19:00" event-duration="2",AFC U-20 Asian Cup | Bhutan U20 vs Chinese Thaipei U20 (19:00 WIB - 3 Sep)
-https://www.youtube.com/watch?v=DVfshHc9UsM
 #EXTINF:-1 tvg-name="AFC U-20 Asian Cup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXAIIOSAmqJF1-XFNhlMDndElCnmmttQcGXM4eaF9AA&s" group-title="Events" event-name="Laos U20 vs Indonesia U20" event-time="2026-09-03T20:30" event-duration="2",AFC U-20 Asian Cup | Laos U20 vs Indonesia U20 (20:30 WIB - 3 Sep)
 #EXTVLCOPT:http-referrer=https://xlz.drovaxcontentdelivery.com
 #EXTVLCOPT:http-origin=https://xlz.drovaxcontentdelivery.com
@@ -111,22 +62,6 @@ https://live1.quickscoreboardz.com/live/channel61.flv?wsSecret=cf0fcda5a10c6361f
 #EXTVLCOPT:http-origin=https://xlz.drovaxcontentdelivery.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://live1.quickscoreboardz.com/live/channel62.flv?wsSecret=fa9ed76785d0b3afd9cd5e5ba0395636&wsABSTime=1788521521
-#EXTINF:-1 tvg-name="Ligue 1" tvg-logo="https://media.worldsoccertalk.com/wp-content/uploads/sites/6/2024/03/16043836/ligue-1-logo-1200x740.jpg" group-title="Events" event-name="Angers SCO vs Rennes" event-time="2026-09-05T00:00" event-duration="2",Ligue 1 | Angers SCO vs Rennes (00:00 WIB - 5 Sep)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-#EXTINF:-1 tvg-name="Ligue 1" tvg-logo="https://media.worldsoccertalk.com/wp-content/uploads/sites/6/2024/03/16043836/ligue-1-logo-1200x740.jpg" group-title="Events" event-name="Paris Saint-Germain vs AS Monaco" event-time="2026-09-05T02:00" event-duration="2",Ligue 1 | Paris Saint-Germain vs AS Monaco (02:00 WIB - 5 Sep)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-name="AVC Men's Volleyball Continental Championship" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRalZ_N-BBx5HokazTP8pPdDHNRfDugN0tP6xotJKrTyA&s=10" group-title="Events" event-name="China vs India" event-time="2026-09-05T11:30" event-duration="2",AVC Men's Volleyball Continental Championship | China vs India (11:30 WIB - 5 Sep)
 #EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com
 #EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
@@ -137,127 +72,11 @@ https://live2.domainkqt.cc/live/channel33.flv
 #EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://live2.domainkqt.cc/live/channel33.flv
-#EXTINF:-1 tvg-name="BRI Super League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="Events" event-name="PSIM Jogja vs Persita" event-time="2026-09-05T15:30" event-duration="2",BRI Super League | PSIM Jogja vs Persita (15:30 WIB - 5 Sep)
-#EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live2.domainkqt.cc/live/channel12.flv
-#EXTINF:-1 tvg-name="BRI Super League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="Events" event-name="Bhayangkara Presisi Lampung FC vs Persebaya Surabaya" event-time="2026-09-05T15:30" event-duration="2",BRI Super League | Bhayangkara Presisi Lampung FC vs Persebaya Surabaya (15:30 WIB - 5 Sep)
-#EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live2.domainkqt.cc/live/channel19.flv
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="TNT SPORT 1 HD" event-name="Newcastle United vs Bournemouth" event-time="2026-09-05T18:30" event-duration="2",Premier League | Newcastle United vs Bournemouth (18:30 WIB - 5 Sep)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-#EXTVLCOPT:http-referrer=https://saka.kpores.ru/
-#EXTVLCOPT:http-origin=https://saka.kpores.ru
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#EXTINF:-1 tvg-name="BRI Super League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="Events" event-name="Borneo FC Samarinda vs Persija Jakarta" event-time="2026-09-05T19:00" event-duration="2",BRI Super League | Borneo FC Samarinda vs Persija Jakarta (19:00 WIB - 5 Sep)
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1854133.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=bb9a6a9c371714772da13aef9da6027a
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" event-name="Brentford vs Sunderland" event-time="2026-09-05T21:00" event-duration="2",Premier League | Brentford vs Sunderland (21:00 WIB - 5 Sep)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6adb60911158337c0525056bd4eec9d:535629e67f934985046d81ab07f8fb29
-#EXTVLCOPT:http-referrer=https://saka.kpores.ru/
-#EXTVLCOPT:http-origin=https://saka.kpores.ru
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3dmzzbqa84/out/v1/afdca7dd54c74a5784b1eb2a076b10de/cenc.mpd
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" event-name="Brighton vs Leeds United" event-time="2026-09-05T21:00" event-duration="2",Premier League | Brighton vs Leeds United (21:00 WIB - 5 Sep)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7784d2854b9a1ec99a806b45cdbe16d4:e94a73570a3518d4b9bb1f74ba359b92
-#EXTVLCOPT:http-referrer=https://saka.kpores.ru/
-#EXTVLCOPT:http-origin=https://saka.kpores.ru
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mxxestguf7/out/v1/0ed8f1ef083a45f5a6c383a3cc0e666b/cenc.mpd
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" event-name="Fulham vs Crystal Palace" event-time="2026-09-05T21:00" event-duration="2",Premier League | Fulham vs Crystal Palace (21:00 WIB - 5 Sep)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a761bd5fc37d48660706627a281e1f4:4d3db9d061811ef66c8ca90a7c2a48a6
-#EXTVLCOPT:http-referrer=https://saka.kpores.ru/
-#EXTVLCOPT:http-origin=https://saka.kpores.ru
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hmn9cogt2t/out/v1/a05a2e4041974815af4f64f7a030930b/cenc.mpd
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" event-name="Manchester City vs Coventry" event-time="2026-09-05T21:00" event-duration="2",Premier League | Manchester City vs Coventry (21:00 WIB - 5 Sep)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc
-#EXTVLCOPT:http-referrer=https://saka.kpores.ru/
-#EXTVLCOPT:http-origin=https://saka.kpores.ru
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u3yyxpyqxr/out/v1/63f0844e26d046ab88a2b07df145e87c/cenc.mpd
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" event-name="Nottingham Forest vs Tottenham" event-time="2026-09-05T21:00" event-duration="2",Premier League | Nottingham Forest vs Tottenham (21:00 WIB - 5 Sep)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=51ed74bf6e3649f5798013eef17d01e4:6f618b5252202db68e2943bb79e609f5
-#EXTVLCOPT:http-referrer=https://saka.kpores.ru/
-#EXTVLCOPT:http-origin=https://saka.kpores.ru
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jpw1kapodl/out/v1/92cb400dfe654c318f02e495510a0d88/cenc.mpd
-#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="Bein Sport 1 AU" event-name="Athletic Bilbao vs Atletico Madrid" event-time="2026-09-05T21:15" event-duration="2",Laliga | Athletic Bilbao vs Atletico Madrid (21:15 WIB - 5 Sep)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="FANCODE" event-name="Athletic Bilbao vs Atletico Madrid" event-time="2026-09-05T21:15" event-duration="2",Laliga | Athletic Bilbao vs Atletico Madrid (21:15 WIB - 5 Sep)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://abgpu4gaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-name="Seri A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCcyny5MKkPWQtDJzPi_yiSE7FakyV6Cih9bT64qHKTLkWWEJhMygM6CU1dcgMhVMNclLDP6Ui0rOeXuwPbwbxcLCvudd5QQIzSrSFajxSQF5pNrobtFfF66qtWg38j_edZz12WqmI5WgjEXSOYWNWtkFD8SypRR-0CkJ9vr3W4YHZeZ8AnarjqxvcnSwH/s320/images%20(13).jpg" group-title="Events" server="TNT SPORT 2 HD" event-name="Inter Milan vs Napoli" event-time="2026-09-05T23:00" event-duration="2",Seri A | Inter Milan vs Napoli (23:00 WIB - 5 Sep)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-#EXTVLCOPT:http-referrer=https://saka.kpores.ru/
-#EXTVLCOPT:http-origin=https://saka.kpores.ru
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-name="Seri A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCcyny5MKkPWQtDJzPi_yiSE7FakyV6Cih9bT64qHKTLkWWEJhMygM6CU1dcgMhVMNclLDP6Ui0rOeXuwPbwbxcLCvudd5QQIzSrSFajxSQF5pNrobtFfF66qtWg38j_edZz12WqmI5WgjEXSOYWNWtkFD8SypRR-0CkJ9vr3W4YHZeZ8AnarjqxvcnSwH/s320/images%20(13).jpg" group-title="Events" server="Bein Sport 3 AU" event-name="Inter Milan vs Napoli" event-time="2026-09-05T23:00" event-duration="2",Seri A | Inter Milan vs Napoli (23:00 WIB - 5 Sep)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="Bein Sport 1 AU" event-name="Rayo Vallecano vs Santander" event-time="2026-09-05T23:30" event-duration="2",Laliga | Rayo Vallecano vs Santander (23:30 WIB - 5 Sep)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" event-name="Hull City vs Aston Villa" event-time="2026-09-05T23:30" event-duration="2",Premier League | Hull City vs Aston Villa (23:30 WIB - 5 Sep)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1 tvg-name="BUNDESLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGO8o7Ljfq7qs6sU7yDKl3jzd_vU3Lh9fQqNapOjiaeA&s=10" group-title="Events" server="Bein Sport 2 AU" event-name="Schalke 04 vs Bayern Munich" event-time="2026-09-05T23:30" event-duration="2",BUNDESLIGA | Schalke 04 vs Bayern Munich (23:30 WIB - 5 Sep)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 #EXTINF:-1 tvg-name="Saudi Pro League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8a0nzpHRqG6YjqF5OlLkLbMfBtZtc02EvmUpgz0q4nQ&s=10" group-title="Events" event-name="Al Ittihad vs Al Nassr" event-time="2026-09-06T01:00" event-duration="2",Saudi Pro League | Al Ittihad vs Al Nassr (01:00 WIB - 6 Sep)
 #EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com
 #EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://live2.domainkqt.cc/live/channel24.flv
-#EXTINF:-1 tvg-name="Seri A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCcyny5MKkPWQtDJzPi_yiSE7FakyV6Cih9bT64qHKTLkWWEJhMygM6CU1dcgMhVMNclLDP6Ui0rOeXuwPbwbxcLCvudd5QQIzSrSFajxSQF5pNrobtFfF66qtWg38j_edZz12WqmI5WgjEXSOYWNWtkFD8SypRR-0CkJ9vr3W4YHZeZ8AnarjqxvcnSwH/s320/images%20(13).jpg" group-title="Events" server="Bein Sport 3 AU" event-name="AS Roma vs Atalanta" event-time="2026-09-06T01:45" event-duration="2",Seri A | AS Roma vs Atalanta (01:45 WIB - 6 Sep)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="FANCODE" event-name="Villarreal vs A Coruna" event-time="2026-09-06T02:00" event-duration="2",Laliga | Villarreal vs A Coruna (02:00 WIB - 6 Sep)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-name="AVC Men's Volleyball Continental Championship" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7PBziq0i02hwcN5tnVOKAsXaUV5fssgIJx8VnJhqMZg&s=10" group-title="Events" event-name="Iran vs India" event-time="2026-09-06T07:30" event-duration="2",AVC Men's Volleyball Continental Championship | Iran vs India (07:30 WIB - 6 Sep)
-#EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live2.domainkqt.cc/live/channel33.flv
 #EXTINF:-1 tvg-name="MLS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqjlXt_pkPP2bLmZH2mqIt84KBmkcBqVxkrtlKq3ZVKA&s=10" group-title="Events" server="server 1" event-name="Inter Miami vs Atlanta" event-time="2026-09-06T08:05" event-duration="2",MLS | Inter Miami vs Atlanta (08:05 WIB - 6 Sep)
 #EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
 #EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com/
@@ -275,70 +94,12 @@ https://live2.domainkqt.cc/live/channel33.flv
 https://live1.quickscoreboardz.com/live/channel60.flv?wsSecret=fddb9709cb7ac14efeeb9436cf13aa15&wsABSTime=1788714541
 #EXTINF:-1 tvg-name="LI-NING China Masters 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugwHVi4B7bV2gpQDqBPItwB-E-0MkZYn71fbYPsxflA&s=10" group-title="Events" server="HUB SPORTS 1 HD" event-name="Court 1" event-time="2026-09-06T12:15" event-duration="8",LI-NING China Masters 2026 | Court 1 (12:15 WIB - 6 Sep)
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/280827.m3u8
-#EXTINF:-1 tvg-name="BRI Super League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="Events" server="server 1" event-name="Java United FC vs Garudayaksa FC" event-time="2026-09-06T15:30" event-duration="2",BRI Super League | Java United FC vs Garudayaksa FC (15:30 WIB - 6 Sep)
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1854134.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=624f1249195af1603d5b58176a583c4e
-#EXTINF:-1 tvg-name="BRI Super League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="Events" server="server 2" event-name="Java United FC vs Garudayaksa FC" event-time="2026-09-06T15:30" event-duration="2",BRI Super League | Java United FC vs Garudayaksa FC (15:30 WIB - 6 Sep)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.hexvaridstreamnode.com/
-https://live2.domainkqt.cc/live/channel21.m3u8
-#EXTINF:-1 tvg-name="BRI Super League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="Events" server="server 3" event-name="Java United FC vs Garudayaksa FC" event-time="2026-09-06T15:30" event-duration="2",BRI Super League | Java United FC vs Garudayaksa FC (15:30 WIB - 6 Sep)
-#EXTVLCOPT:http-origin=https://ppdd19.playaindg12.xyz/
-#EXTVLCOPT:http-referrer=https://ppdd19.playaindg12.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://xyzna2-cf.sbbol1011play.sbs/auth%3Dd24530c769bca6e006d1c0c64009bfbd13715f829f21fbe5e2798431fa0abe3398f9005f2b3a8d17fb977666cedc9e95d265eb8beb1f30ac84d901f11f45a2190d1c505aa533e2396fb5da1cf6fe049fe03f527b26af15d22f19223470b6d183ec565d874d834d2c75fc56bd0dd1f279527820cc89fdadafee33dbea4c190c66f3acf6eec5985e4e800df5ffafcefd80b96704876ba0690fddeae88d18e58327%26cid%3DtzMJbaKdeZwQa_CfRUUoT260904%26_v%3D2%26_r%3Dy88J9W%26_vis%3D221360efd2a13c8a13f03d298b3bba925ee448ee51a6862a062e79c1d8a4645b%26_vvs%3D5f021f7426b065fb5439eb0c9ec4ade29965194109e7cb791f6832864baa9943%26_vas%3Da450c2de84ba606332b5d0e37b54a5ceed8490a091fb4b6fc9ef65dbc1b21de1/app/c436265.m3u8
-#EXTINF:-1 tvg-name="AFC U-20 Asian Cup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXAIIOSAmqJF1-XFNhlMDndElCnmmttQcGXM4eaF9AA&s" group-title="Events" server="server 1" event-name="Australia vs Indonesia" event-time="2026-09-06T16:00" event-duration="2",AFC U-20 Asian Cup | Australia vs Indonesia (16:00 WIB - 6 Sep)
-#EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live2.domainkqt.cc/live/channel10.flv
-#EXTINF:-1 tvg-name="AFC U-20 Asian Cup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXAIIOSAmqJF1-XFNhlMDndElCnmmttQcGXM4eaF9AA&s" group-title="Events" server="server 2" event-name="Australia vs Indonesia" event-time="2026-09-06T16:00" event-duration="2",AFC U-20 Asian Cup | Australia vs Indonesia (16:00 WIB - 6 Sep)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.hexvaridstreamnode.com/
-https://live2.domainkqt.cc/live/channel10.m3u8
-#EXTINF:-1 tvg-name="AFC U-20 Asian Cup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXAIIOSAmqJF1-XFNhlMDndElCnmmttQcGXM4eaF9AA&s" group-title="Events" server="server 3" event-name="Australia vs Indonesia" event-time="2026-09-06T16:00" event-duration="2",AFC U-20 Asian Cup | Australia vs Indonesia (16:00 WIB - 6 Sep)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.hexvaridstreamnode.com/
-https://live2.domainkqt.cc/live/channel10.m3u8
-#EXTINF:-1 tvg-name="AVC Men's Volleyball Continental Championship" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7PBziq0i02hwcN5tnVOKAsXaUV5fssgIJx8VnJhqMZg&s=10" group-title="Events" event-name="Japan vs Bahrain" event-time="2026-09-06T17:00" event-duration="2",AVC Men's Volleyball Continental Championship | Japan vs Bahrain (17:00 WIB - 6 Sep)
-#EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live2.domainkqt.cc/live/channel33.flv
 #EXTINF:-1 tvg-name="Eredivisie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqW0BgibW_OaNK_fbDaEk4HB66CX8FsC-uMZnam5r5fn3uQ4OX8oyvovxPULir0MOLDszv_t9R8zitJSvz1ZpH4nNJhWdQtC7kowd6bPTPBeiRlTFkihr0abd3KMOSv2nhwHX00mNX3AohNGLk-APIMCPjFU8BUeFYN0Pba1XOoivvvtTmU2W1VU4WPeGU/s320/images%20(9).jpg" group-title="Events" event-name="Groningen vs Twente" event-time="2026-09-06T17:15" event-duration="1",Eredivisie | Groningen vs Twente (17:15 WIB - 6 Sep)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-#EXTINF:-1 tvg-name="BRI Super League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="Events" event-name="Persib Bandung vs PSM Makassar" event-time="2026-09-06T19:00" event-duration="2",BRI Super League | Persib Bandung vs PSM Makassar (19:00 WIB - 6 Sep)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com
-https://hd-stream.prohades.com/live/default-1854136.m3u8
-#EXTINF:-1 tvg-name="AFC U-20 Asian Cup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXAIIOSAmqJF1-XFNhlMDndElCnmmttQcGXM4eaF9AA&s" group-title="Events" event-name="Malaysia vs Laos" event-time="2026-09-06T19:00" event-duration="2",AFC U-20 Asian Cup | Malaysia vs Laos (19:00 WIB - 6 Sep)
-#EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live2.domainkqt.cc/live/channel9.flv
-#EXTINF:-1 tvg-name="BRI Super League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="Events" event-name="Madura United fc vs Persijap Jepara" event-time="2026-09-06T19:00" event-duration="2",BRI Super League | Madura United fc vs Persijap Jepara (19:00 WIB - 6 Sep)
-#EXTVLCOPT:http-referrer=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-origin=https://xlz.hexvaridstreamnode.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://live1.quickscoreboardz.com/live/channel23.flv?wsSecret=a63e9962da8038c838ea624b41df8e9b&wsABSTime=1788703917
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="fubo SPORTS" event-name="Everton vs Manchester United" event-time="2026-09-06T20:00" event-duration="2",Premier League | Everton vs Manchester United (20:00 WIB - 6 Sep)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="skysport premier league HD" event-name="Everton vs Manchester United" event-time="2026-09-06T20:00" event-duration="2",Premier League | Everton vs Manchester United (20:00 WIB - 6 Sep)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="ARENA 1 PREMIUM" event-name="Everton vs Manchester United" event-time="2026-09-06T20:00" event-duration="2",Premier League | Everton vs Manchester United (20:00 WIB - 6 Sep)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/559019.m3u8
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="DAZN1 HD" event-name="Everton vs Manchester United" event-time="2026-09-06T20:00" event-duration="2",Premier League | Everton vs Manchester United (20:00 WIB - 6 Sep)
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959373.m3u8
 #EXTINF:-1 tvg-name="Formula 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_I5ySRsKZf-UNJTn6HR7nmibjK5asVMPg30FdLPW99JZ0NSKTigmGQCw&s=10" group-title="Events" server="TSN 5" event-name="Race - Formula 1 Pirelli Gran Premio D`Italia 2026" event-time="2026-09-06T20:00" event-duration="2",Formula 1 | Race - Formula 1 Pirelli Gran Premio D`Italia 2026 (20:00 WIB - 6 Sep)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
@@ -350,105 +111,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-name="Seri A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCcyny5MKkPWQtDJzPi_yiSE7FakyV6Cih9bT64qHKTLkWWEJhMygM6CU1dcgMhVMNclLDP6Ui0rOeXuwPbwbxcLCvudd5QQIzSrSFajxSQF5pNrobtFfF66qtWg38j_edZz12WqmI5WgjEXSOYWNWtkFD8SypRR-0CkJ9vr3W4YHZeZ8AnarjqxvcnSwH/s320/images%20(13).jpg" group-title="Events" event-name="Frosinone Calcio vs Venezia" event-time="2026-09-06T20:00" event-duration="2",Seri A | Frosinone Calcio vs Venezia (20:00 WIB - 6 Sep)
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-#EXTINF:-1 tvg-name="Seri A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCcyny5MKkPWQtDJzPi_yiSE7FakyV6Cih9bT64qHKTLkWWEJhMygM6CU1dcgMhVMNclLDP6Ui0rOeXuwPbwbxcLCvudd5QQIzSrSFajxSQF5pNrobtFfF66qtWg38j_edZz12WqmI5WgjEXSOYWNWtkFD8SypRR-0CkJ9vr3W4YHZeZ8AnarjqxvcnSwH/s320/images%20(13).jpg" group-title="Events" event-name="Parma vs Monza" event-time="2026-09-06T20:00" event-duration="2",Seri A | Parma vs Monza (20:00 WIB - 6 Sep)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-name="BUNDESLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGO8o7Ljfq7qs6sU7yDKl3jzd_vU3Lh9fQqNapOjiaeA&s=10" group-title="Events" event-name="Hamburger SV vs Mainz 05" event-time="2026-09-06T20:30" event-duration="2",BUNDESLIGA | Hamburger SV vs Mainz 05 (20:30 WIB - 6 Sep)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="beIN sport" event-name="Valencia vs Barcelona" event-time="2026-09-06T21:15" event-duration="2",Laliga | Valencia vs Barcelona (21:15 WIB - 6 Sep)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="Prima Sport 1" event-name="Valencia vs Barcelona" event-time="2026-09-06T21:15" event-duration="2",Laliga | Valencia vs Barcelona (21:15 WIB - 6 Sep)
-#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
-#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="PREMIERSPORTS 2" event-name="Valencia vs Barcelona" event-time="2026-09-06T21:15" event-duration="2",Laliga | Valencia vs Barcelona (21:15 WIB - 6 Sep)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="fubo SPORTS" event-name="Arsenal vs Chelsea" event-time="2026-09-06T22:30" event-duration="2",Premier League | Arsenal vs Chelsea (22:30 WIB - 6 Sep)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6776f3d5a3bb7017521beb8e14da1d53:4a3fdd959eee4b054a72e55366fdcffa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fttkglttbv/out/v1/afdca7dd54c74a5784b1eb2a076b10de/cenc.mpd
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="skysport premier league HD" event-name="Arsenal vs Chelsea" event-time="2026-09-06T22:30" event-duration="2",Premier League | Arsenal vs Chelsea (22:30 WIB - 6 Sep)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
-#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="DAZN1 HD" event-name="Arsenal vs Chelsea" event-time="2026-09-06T22:30" event-duration="2",Premier League | Arsenal vs Chelsea (22:30 WIB - 6 Sep)
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959373.m3u8
-#EXTINF:-1 tvg-name="BUNDESLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGO8o7Ljfq7qs6sU7yDKl3jzd_vU3Lh9fQqNapOjiaeA&s=10" group-title="Events" event-name="Eintracht Frankfurt vs Augsburg" event-time="2026-09-06T22:30" event-duration="2",BUNDESLIGA | Eintracht Frankfurt vs Augsburg (22:30 WIB - 6 Sep)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
-https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
-#EXTINF:-1 tvg-name="Seri A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCcyny5MKkPWQtDJzPi_yiSE7FakyV6Cih9bT64qHKTLkWWEJhMygM6CU1dcgMhVMNclLDP6Ui0rOeXuwPbwbxcLCvudd5QQIzSrSFajxSQF5pNrobtFfF66qtWg38j_edZz12WqmI5WgjEXSOYWNWtkFD8SypRR-0CkJ9vr3W4YHZeZ8AnarjqxvcnSwH/s320/images%20(13).jpg" group-title="Events" server="beIN SPORTS 3" event-name="Bologna vs Sassuolo" event-time="2026-09-06T23:00" event-duration="2",Seri A | Bologna vs Sassuolo (23:00 WIB - 6 Sep)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="Bein Sport 1 ID" event-name="Alaves vs Osasuna" event-time="2026-09-06T23:30" event-duration="2",Laliga | Alaves vs Osasuna (23:30 WIB - 6 Sep)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=125&key=sdfknhfbnjwenfewbfj43244444554354233
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="Bein Sport 3 ID" event-name="Malaga vs Levante" event-time="2026-09-06T23:30" event-duration="2",Laliga | Malaga vs Levante (23:30 WIB - 6 Sep)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=127&key=sdfknhfbnjwenfewbfj43244444554354233
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-#EXTINF:-1 tvg-name="Seri A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCcyny5MKkPWQtDJzPi_yiSE7FakyV6Cih9bT64qHKTLkWWEJhMygM6CU1dcgMhVMNclLDP6Ui0rOeXuwPbwbxcLCvudd5QQIzSrSFajxSQF5pNrobtFfF66qtWg38j_edZz12WqmI5WgjEXSOYWNWtkFD8SypRR-0CkJ9vr3W4YHZeZ8AnarjqxvcnSwH/s320/images%20(13).jpg" group-title="Events" server="TNT SPORT 1 HD" event-name="Juventus vs Milan" event-time="2026-09-07T01:45" event-duration="2",Seri A | Juventus vs Milan (01:45 WIB - 7 Sep)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-#EXTVLCOPT:http-referrer=https://saka.kpores.ru/
-#EXTVLCOPT:http-origin=https://saka.kpores.ru
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#EXTINF:-1 tvg-name="Seri A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCcyny5MKkPWQtDJzPi_yiSE7FakyV6Cih9bT64qHKTLkWWEJhMygM6CU1dcgMhVMNclLDP6Ui0rOeXuwPbwbxcLCvudd5QQIzSrSFajxSQF5pNrobtFfF66qtWg38j_edZz12WqmI5WgjEXSOYWNWtkFD8SypRR-0CkJ9vr3W4YHZeZ8AnarjqxvcnSwH/s320/images%20(13).jpg" group-title="Events" server="Bein Sport 3 AU" event-name="Juventus vs Milan" event-time="2026-09-07T01:45" event-duration="2",Seri A | Juventus vs Milan (01:45 WIB - 7 Sep)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="Bein Sport 2 AU" event-name="Espanyol vs Sevilla" event-time="2026-09-07T02:00" event-duration="2",Laliga | Espanyol vs Sevilla (02:00 WIB - 7 Sep)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="FANCODE" event-name="Espanyol vs Sevilla" event-time="2026-09-07T02:00" event-duration="2",Laliga | Espanyol vs Sevilla (02:00 WIB - 7 Sep)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="FANCODE" event-name="Elche vs Real Sociedad" event-time="2026-09-08T02:30" event-duration="2",Laliga | Elche vs Real Sociedad (02:30 WIB - 8 Sep)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 #EXTINF:-1 tvg-name="UEFA Champions League" tvg-logo="https://cdn.prod.website-files.com/6452877bac9e3bb3c2c46e5f/6633ac5efbb43ec48b06934f_TM_UCL_2024_04.png" group-title="Events" server="cbs 1" event-name="Club Brugge vs Aston Villa" event-time="2026-09-08T23:45" event-duration="2",UEFA Champions League | Club Brugge vs Aston Villa (23:45 WIB - 8 Sep)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
@@ -457,6 +119,176 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-name="AFC Champions League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXjApLBpcfb6xUvms8KGV1P0tLoajExUUSuQhqETWO8g&s=10" group-title="Events" event-name="Shabab AlAhli vs Tractor S.C." event-time="2026-09-14T23:00" event-duration="4",AFC Champions League | Shabab AlAhli vs Tractor S.C. (23:00 WIB - 14 Sep)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1087.m3u8
+#EXTINF:-1 tvg-name="Carabao Cup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPUXlPhSSXjHB9YLFunKSRuFpSm6XRdeysrnrw-s5SQ&s=10" group-title="Events" server="cbs" event-name="Ipswich Town vs Arsenal" event-time="2026-09-16T02:00" event-duration="2",Carabao Cup | Ipswich Town vs Arsenal (02:00 WIB - 16 Sep)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#EXTINF:-1 tvg-name="UEFA Europa League" tvg-logo="https://play-lh.googleusercontent.com/h2fC1mQ4nx2R5vZ2rq1-pmQwUmklkGJEVFXCq2Os2-ql3Fz8lbKcNzFzWpYrPpVWIgUZAw9LEkSZA7msGj5T" group-title="Events" server="TNT SPORT 2 HD" event-name="Real Sociedad vs Bournemouth" event-time="2026-09-18T02:00" event-duration="2",UEFA Europa League | Real Sociedad vs Bournemouth (02:00 WIB - 18 Sep)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#EXTVLCOPT:http-referrer=https://saka.kpores.ru/
+#EXTVLCOPT:http-origin=https://saka.kpores.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="TNT SPORT 1 HD" event-name="Tottenham vs Aston Villa" event-time="2026-09-19T18:30" event-duration="2",Premier League | Tottenham vs Aston Villa (18:30 WIB - 19 Sep)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#EXTVLCOPT:http-referrer=https://saka.kpores.ru/
+#EXTVLCOPT:http-origin=https://saka.kpores.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" server="TNT SPORT 1 HD" event-name="Nottingham Forest vs Coventry" event-time="2026-09-19T23:30" event-duration="2",Premier League | Nottingham Forest vs Coventry (23:30 WIB - 19 Sep)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#EXTVLCOPT:http-referrer=https://saka.kpores.ru/
+#EXTVLCOPT:http-origin=https://saka.kpores.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-name="MotoGP 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIagloQvySI7GyUweopqlfkQdO0pV9Lj_-MCw4hJEGw&s=10" group-title="Events" server="TNT SPORT 2 HD" event-name="MotoGP Warm Up" event-time="2026-09-20T14:41" event-duration="3",MotoGP 2026 | MotoGP Warm Up (14:41 WIB - 20 Sep)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#EXTVLCOPT:http-referrer=https://saka.kpores.ru/
+#EXTVLCOPT:http-origin=https://saka.kpores.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-name="MotoGP 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIagloQvySI7GyUweopqlfkQdO0pV9Lj_-MCw4hJEGw&s=10" group-title="Events" server="SPOTV 2 ID" event-name="MotoGP Warm Up" event-time="2026-09-20T14:41" event-duration="3",MotoGP 2026 | MotoGP Warm Up (14:41 WIB - 20 Sep)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=78&key=sdfknhfbnjwenfewbfj43244444554354233
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#EXTINF:-1 tvg-name="MotoGP 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIagloQvySI7GyUweopqlfkQdO0pV9Lj_-MCw4hJEGw&s=10" group-title="Events" server="SPOTV 2 PH" event-name="MotoGP Warm Up" event-time="2026-09-20T14:41" event-duration="3",MotoGP 2026 | MotoGP Warm Up (14:41 WIB - 20 Sep)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+#EXTINF:-1 tvg-name="Serie A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCcyny5MKkPWQtDJzPi_yiSE7FakyV6Cih9bT64qHKTLkWWEJhMygM6CU1dcgMhVMNclLDP6Ui0rOeXuwPbwbxcLCvudd5QQIzSrSFajxSQF5pNrobtFfF66qtWg38j_edZz12WqmI5WgjEXSOYWNWtkFD8SypRR-0CkJ9vr3W4YHZeZ8AnarjqxvcnSwH/s320/images%20(13).jpg" group-title="Events" server="Bein Sport 3 AU" event-name="Fiorentina vs Napoli" event-time="2026-09-20T17:30" event-duration="2",Serie A | Fiorentina vs Napoli (17:30 WIB - 20 Sep)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-name="MotoGP 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIagloQvySI7GyUweopqlfkQdO0pV9Lj_-MCw4hJEGw&s=10" group-title="Events" server="TNT SPORT 2 HD" event-name="Race: Qatar Airways Grand Prix of Austria" event-time="2026-09-20T18:30" event-duration="3",MotoGP 2026 | Race: Qatar Airways Grand Prix of Austria (18:30 WIB - 20 Sep)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#EXTVLCOPT:http-referrer=https://saka.kpores.ru/
+#EXTVLCOPT:http-origin=https://saka.kpores.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-name="MotoGP 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIagloQvySI7GyUweopqlfkQdO0pV9Lj_-MCw4hJEGw&s=10" group-title="Events" server="SPOTV 2 ID" event-name="Race: Qatar Airways Grand Prix of Austria" event-time="2026-09-20T18:30" event-duration="3",MotoGP 2026 | Race: Qatar Airways Grand Prix of Austria (18:30 WIB - 20 Sep)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=78&key=sdfknhfbnjwenfewbfj43244444554354233
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#EXTINF:-1 tvg-name="MotoGP 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIagloQvySI7GyUweopqlfkQdO0pV9Lj_-MCw4hJEGw&s=10" group-title="Events" server="SPOTV 2 PH" event-name="Race: Qatar Airways Grand Prix of Austria" event-time="2026-09-20T18:30" event-duration="3",MotoGP 2026 | Race: Qatar Airways Grand Prix of Austria (18:30 WIB - 20 Sep)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="PREMIERSPORTS 1" event-name="Getafe vs Malaga" event-time="2026-09-20T19:00" event-duration="2",Laliga | Getafe vs Malaga (19:00 WIB - 20 Sep)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+#EXTINF:-1 tvg-name="BRI Super League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMw1F8OVTXh-w-WwzJru-iOjmwkYihEIBGVB11v-nIJA&s=10" group-title="Events" event-name="Persijab vs Persib Bandung" event-time="2026-09-20T19:00" event-duration="2",BRI Super League | Persijab vs Persib Bandung (19:00 WIB - 20 Sep)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel17.m3u8?wsSecret=766fcd6ed967d5becdb23d00e019532b&wsABSTime=1789925589
+#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" event-name="Bournemouth vs Liverpool" event-time="2026-09-20T20:00" event-duration="2",Premier League | Bournemouth vs Liverpool (20:00 WIB - 20 Sep)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" event-name="Manchester City vs Sunderland" event-time="2026-09-20T20:00" event-duration="2",Premier League | Manchester City vs Sunderland (20:00 WIB - 20 Sep)
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
+#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" event-name="Leeds United vs Crystal Palace" event-time="2026-09-20T20:00" event-duration="2",Premier League | Leeds United vs Crystal Palace (20:00 WIB - 20 Sep)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+#EXTINF:-1 tvg-name="BUNDESLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGO8o7Ljfq7qs6sU7yDKl3jzd_vU3Lh9fQqNapOjiaeA&s=10" group-title="Events" server="Bein Sport 2 AU" event-name="Leverkusen vs Leipzig" event-time="2026-09-20T20:30" event-duration="2",BUNDESLIGA | Leverkusen vs Leipzig (20:30 WIB - 20 Sep)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="TSN 5" event-name="Atletico Madrid vs Real Madrid" event-time="2026-09-20T21:15" event-duration="2",Laliga | Atletico Madrid vs Real Madrid (21:15 WIB - 20 Sep)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="Bein Sport 2 AU" event-name="Atletico Madrid vs Real Madrid" event-time="2026-09-20T21:15" event-duration="2",Laliga | Atletico Madrid vs Real Madrid (21:15 WIB - 20 Sep)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-name="Ligue 1" tvg-logo="https://media.worldsoccertalk.com/wp-content/uploads/sites/6/2024/03/16043836/ligue-1-logo-1200x740.jpg" group-title="Events" event-name="OGC Nice vs LOSC Lille" event-time="2026-09-20T22:15" event-duration="2",Ligue 1 | OGC Nice vs LOSC Lille (22:15 WIB - 20 Sep)
+https://bogem.b-cdn.net/sd-6MwdpxfnU5ttCxtUqK.m3u8
+#EXTINF:-1 tvg-name="Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33I1b2NveQ-BoSS6p_Kk--GpV03zoApkfZuZmhy8TJA&s=10" group-title="Events" event-name="Fulham vs Manchester United" event-time="2026-09-20T22:30" event-duration="2",Premier League | Fulham vs Manchester United (22:30 WIB - 20 Sep)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#EXTINF:-1 tvg-name="Serie A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCcyny5MKkPWQtDJzPi_yiSE7FakyV6Cih9bT64qHKTLkWWEJhMygM6CU1dcgMhVMNclLDP6Ui0rOeXuwPbwbxcLCvudd5QQIzSrSFajxSQF5pNrobtFfF66qtWg38j_edZz12WqmI5WgjEXSOYWNWtkFD8SypRR-0CkJ9vr3W4YHZeZ8AnarjqxvcnSwH/s320/images%20(13).jpg" group-title="Events" server="Bein Sport 3 AU" event-name="Juventus vs Atalanta" event-time="2026-09-20T23:05" event-duration="2",Serie A | Juventus vs Atalanta (23:05 WIB - 20 Sep)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="Bein Sport 1 ID" event-name="Deportivo de A Coruña vs Real Betis" event-time="2026-09-20T23:30" event-duration="2",Laliga | Deportivo de A Coruña vs Real Betis (23:30 WIB - 20 Sep)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=125&key=sdfknhfbnjwenfewbfj43244444554354233
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="PREMIERSPORTS 1" event-name="Deportivo de A Coruña vs Real Betis" event-time="2026-09-20T23:30" event-duration="2",Laliga | Deportivo de A Coruña vs Real Betis (23:30 WIB - 20 Sep)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="Bein Sport 2 AU" event-name="Villarreal vs Levante" event-time="2026-09-20T23:30" event-duration="2",Laliga | Villarreal vs Levante (23:30 WIB - 20 Sep)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-name="Ligue 1" tvg-logo="https://media.worldsoccertalk.com/wp-content/uploads/sites/6/2024/03/16043836/ligue-1-logo-1200x740.jpg" group-title="Events" server="server 1" event-name="Olympique de Marseille vs Paris Saint-Germain" event-time="2026-09-21T01:45" event-duration="2",Ligue 1 | Olympique de Marseille vs Paris Saint-Germain (01:45 WIB - 21 Sep)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel5.m3u8
+#EXTINF:-1 tvg-name="Ligue 1" tvg-logo="https://media.worldsoccertalk.com/wp-content/uploads/sites/6/2024/03/16043836/ligue-1-logo-1200x740.jpg" group-title="Events" server="server 2" event-name="Olympique de Marseille vs Paris Saint-Germain" event-time="2026-09-21T01:45" event-duration="2",Ligue 1 | Olympique de Marseille vs Paris Saint-Germain (01:45 WIB - 21 Sep)
+https://bogem.b-cdn.net/sd-6MwdpxfnU5ttCxtUqK.m3u8
+#EXTINF:-1 tvg-name="Serie A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCcyny5MKkPWQtDJzPi_yiSE7FakyV6Cih9bT64qHKTLkWWEJhMygM6CU1dcgMhVMNclLDP6Ui0rOeXuwPbwbxcLCvudd5QQIzSrSFajxSQF5pNrobtFfF66qtWg38j_edZz12WqmI5WgjEXSOYWNWtkFD8SypRR-0CkJ9vr3W4YHZeZ8AnarjqxvcnSwH/s320/images%20(13).jpg" group-title="Events" server="Bein Sport 3 AU" event-name="AC Milan vs Lecce" event-time="2026-09-21T01:45" event-duration="2",Serie A | AC Milan vs Lecce (01:45 WIB - 21 Sep)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-name="Serie A" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCcyny5MKkPWQtDJzPi_yiSE7FakyV6Cih9bT64qHKTLkWWEJhMygM6CU1dcgMhVMNclLDP6Ui0rOeXuwPbwbxcLCvudd5QQIzSrSFajxSQF5pNrobtFfF66qtWg38j_edZz12WqmI5WgjEXSOYWNWtkFD8SypRR-0CkJ9vr3W4YHZeZ8AnarjqxvcnSwH/s320/images%20(13).jpg" group-title="Events" server="TNT SPORT 1 HD" event-name="AC Milan vs Lecce" event-time="2026-09-21T01:45" event-duration="2",Serie A | AC Milan vs Lecce (01:45 WIB - 21 Sep)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#EXTVLCOPT:http-referrer=https://saka.kpores.ru/
+#EXTVLCOPT:http-origin=https://saka.kpores.ru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-name="Laliga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf_RS5i8flZ1bmlSfVVbqsXsLTktiiGRbrcX2NQdEpmcfa4RGCcHheb-NSyY9sqIonItAHsd78R5yuFwQt19k1In6GEeOqR7_3hXEUk5xEh9FjRLFcGq8f5NZF_2qCrEvS4ZejhPiYjFPKl9gD1eOCraFxd-CQXu4-bVxhwTYj3I4eRdiwtDQaz4i-WU_/s320/images%20(3).png" group-title="Events" server="Bein Sport 2 AU" event-name="Valencia vs Real Sociedad" event-time="2026-09-21T02:00" event-duration="2",Laliga | Valencia vs Real Sociedad (02:00 WIB - 21 Sep)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGTcPCisnII5EZcoI0JYzZ7sDr4c0B9v0VMK_RPPbC2wA2Ct1Rcn2baATdovCI3gqCpMFLvZ9ed2DWrWbEJzpGG782jFEQbs-pkl0fosGpJGiIUEiASLMSKY3_8nN8aIPXFf1iXVIgv7xcNmGKlHYo87NuPFUgBwo-UR-TsKyao_lZG24oMvt4aLBMlW9r/s320/0cc347d7-f3dc-49e8-ac20-53f4c3257019.jpg" group-title="Indonesia" server="CNN" event-duration="4",CNN Indonesia
+https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
 #EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGTcPCisnII5EZcoI0JYzZ7sDr4c0B9v0VMK_RPPbC2wA2Ct1Rcn2baATdovCI3gqCpMFLvZ9ed2DWrWbEJzpGG782jFEQbs-pkl0fosGpJGiIUEiASLMSKY3_8nN8aIPXFf1iXVIgv7xcNmGKlHYo87NuPFUgBwo-UR-TsKyao_lZG24oMvt4aLBMlW9r/s320/0cc347d7-f3dc-49e8-ac20-53f4c3257019.jpg" group-title="Indonesia" server="CNN SD" event-duration="4",CNN Indonesia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -469,6 +301,8 @@ https://cdnjkt913.transvision.co.id:1003/live/master/108/4028c685651d7bcc01651f0
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
 #EXTVLCOPT:http-origin=https://www.youtube.com
 https://www.youtube.com/watch?v=PDDOkUq33Sw
+#EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgBSnGbf0m39SzbXtlq1AXL_a03zdeVB7wcbyoZNf8jsbAUi9H_Ne7A2pnI5iPTI2wwYAYXvZuycI13TxvnqGNnb6KydEiPObKj-PEOqX7hmTQZ_B_WGCOpaEY5zjP3rFc2MBTaQ8a2QSFRJLtEkQ-_TIqN5oi8Ejzqq-6l5XsuAApxZZTJ1qwVT7IK4eq/s320/ea2f3817-add8-44b7-b222-664cacd221ca.jpg" group-title="Indonesia" server="CNBC" event-duration="4",CNBC INDONESIA
+https://green-night-d2b4.iontv.workers.dev/cnbc.m3u8
 #EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgBSnGbf0m39SzbXtlq1AXL_a03zdeVB7wcbyoZNf8jsbAUi9H_Ne7A2pnI5iPTI2wwYAYXvZuycI13TxvnqGNnb6KydEiPObKj-PEOqX7hmTQZ_B_WGCOpaEY5zjP3rFc2MBTaQ8a2QSFRJLtEkQ-_TIqN5oi8Ejzqq-6l5XsuAApxZZTJ1qwVT7IK4eq/s320/ea2f3817-add8-44b7-b222-664cacd221ca.jpg" group-title="Indonesia" server="CNBC HD" event-duration="4",CNBC INDONESIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
@@ -487,15 +321,11 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
 #EXTVLCOPT:http-origin=https://www.youtube.com
 https://www.youtube.com/watch?v=UMe1AKUyUN0
-#EXTINF:-1 tvg-name="iNews" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjODYrdvOvpa1DhyphenhyphenZ9PcrVVip72bHmEOdISho7RksKZ7vCHt9hnqv0Cioox4LPgZ3PnlBJxz3CElXL5bV5VkNxm3KGSUNPqUt0OD6CPLBlDKST4Jj5PlNpaZg4RrVyxNQaY1-iShUPTQnnlLpsv_RGahFwLMKKowPZPu5p2ddV_tn7tfmW7WB-OUWXJnC8p/s1600/channel_83.png" group-title="Indonesia" server="INews" event-duration="4",iNews
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjptCdH6nju6R21U0hAteOPyFYR_OPW3YV406m6chLLyvc7DHBw2EGBV7eIAmiAG1iXZSd2LfIyIdGCl7q-YJFvyS8RrGRDczddiOGZQopF3rUWloPaydBzOwtE5ao1f-WUAFhqg3LXMnieiLAzWGaUGbnwDiwHqdIqdQIj-kZIoTnP1Y6KoRrD8qDqP-3R/s320/15c10f90-4304-4410-a418-67891b5c185d.png" group-title="Indonesia" server="RCTI HD" event-duration="4",RCTI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/cubmu.php?clearkey=217
 https://key.iontv.id/drm/cubmu.php?play=217
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjptCdH6nju6R21U0hAteOPyFYR_OPW3YV406m6chLLyvc7DHBw2EGBV7eIAmiAG1iXZSd2LfIyIdGCl7q-YJFvyS8RrGRDczddiOGZQopF3rUWloPaydBzOwtE5ao1f-WUAFhqg3LXMnieiLAzWGaUGbnwDiwHqdIqdQIj-kZIoTnP1Y6KoRrD8qDqP-3R/s320/15c10f90-4304-4410-a418-67891b5c185d.png" group-title="Indonesia" server="RCTI V+" event-duration="4",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -509,10 +339,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/ac934bd649dc47f699f793634de01635/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/cubmu.php?clearkey=218
 https://key.iontv.id/drm/cubmu.php?play=218
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP8O94qhIy2T-kSZcHHM4vTgA8kHCuM53tJbFdoUnUPBX0oaK1Mh4jTa1U0urrrP9D7Xh13d9ZCRp_i6KSXVDWNOTWQZSBOWnBRQsMixfpOi83SOtj8yiDvpOjgXIDM5BjMsu8OiFKnrc2XG-MjzOxgPocabqrqD-lD16f5enlOD2A6mPDZEOfFGhez5TJ/s320/419ddbb6-dc83-4e1a-89e6-13c6c9422577.png" group-title="Indonesia" server="GTV R+" event-duration="4",GTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP8O94qhIy2T-kSZcHHM4vTgA8kHCuM53tJbFdoUnUPBX0oaK1Mh4jTa1U0urrrP9D7Xh13d9ZCRp_i6KSXVDWNOTWQZSBOWnBRQsMixfpOi83SOtj8yiDvpOjgXIDM5BjMsu8OiFKnrc2XG-MjzOxgPocabqrqD-lD16f5enlOD2A6mPDZEOfFGhez5TJ/s320/419ddbb6-dc83-4e1a-89e6-13c6c9422577.png" group-title="Indonesia" server="GTV V+" event-duration="4",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=3&key=sdfknhfbnjwenfewbfj43244444554354233
@@ -520,41 +346,45 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 #EXTINF:-1 tvg-name="MNCTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgopZkakZgqq78x__gXqSUCt9op6RJJEmXASfYhYGOJ4aNEmHhyQ0NgDA8_5rkmnfdMEPHnk1OCFsdxUmw8o635fjQ1gNxfP3aqqoC3Vb9TeyjvssezWB79ac_VjNN5bq0yIQPsOvoKxsDFk6J6TBGEBb9OEP2uaupeTNooqEgC4s6yTnpEeakkO4sk1nTE/s320/788c4e9e-363d-47f7-9ef5-6ee1d9dd2619.png" group-title="Indonesia" server="MNCTV HD" event-duration="4",MNCTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5763414f31424c5257696550686b7071:36475359596956664e45513938557479
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
-#EXTINF:-1 tvg-name="MNCTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgopZkakZgqq78x__gXqSUCt9op6RJJEmXASfYhYGOJ4aNEmHhyQ0NgDA8_5rkmnfdMEPHnk1OCFsdxUmw8o635fjQ1gNxfP3aqqoC3Vb9TeyjvssezWB79ac_VjNN5bq0yIQPsOvoKxsDFk6J6TBGEBb9OEP2uaupeTNooqEgC4s6yTnpEeakkO4sk1nTE/s320/788c4e9e-363d-47f7-9ef5-6ee1d9dd2619.png" group-title="Indonesia" server="MNCTV R+" event-duration="4",MNCTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/cubmu.php?clearkey=222
+https://key.iontv.id/drm/cubmu.php?play=222
+#EXTINF:-1 tvg-name="MNCTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgopZkakZgqq78x__gXqSUCt9op6RJJEmXASfYhYGOJ4aNEmHhyQ0NgDA8_5rkmnfdMEPHnk1OCFsdxUmw8o635fjQ1gNxfP3aqqoC3Vb9TeyjvssezWB79ac_VjNN5bq0yIQPsOvoKxsDFk6J6TBGEBb9OEP2uaupeTNooqEgC4s6yTnpEeakkO4sk1nTE/s320/788c4e9e-363d-47f7-9ef5-6ee1d9dd2619.png" group-title="Indonesia" server="MNCTV" event-duration="4",MNCTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TU5DVFY/manifest.mpd
 #EXTINF:-1 tvg-name="MNCTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgopZkakZgqq78x__gXqSUCt9op6RJJEmXASfYhYGOJ4aNEmHhyQ0NgDA8_5rkmnfdMEPHnk1OCFsdxUmw8o635fjQ1gNxfP3aqqoC3Vb9TeyjvssezWB79ac_VjNN5bq0yIQPsOvoKxsDFk6J6TBGEBb9OEP2uaupeTNooqEgC4s6yTnpEeakkO4sk1nTE/s320/788c4e9e-363d-47f7-9ef5-6ee1d9dd2619.png" group-title="Indonesia" server="MNCTV V+" event-duration="4",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=2&key=sdfknhfbnjwenfewbfj43244444554354233
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzcXWbXyvabgun_NBKwbGHWrSQQZWE_1vQVzLOEG_mlDngvhtFmw7KbYMq1sC7uSIbutkTdpylj6BTSSbsZZzGyXYMLAtgbmYtKJ6M2gdYOIR8BDRJU6fZCnjtfTPfNDq_3FjYwLLTC5rCjLs89Dh4bK1Y4ZYekwU-WhoTB7xZNTVnZG4Dvj6hGs1z59sn/s320/59e42ba7-a1d7-45af-a69e-8ca05ca51029.jpg" group-title="Indonesia" server="TRANS 7" event-duration="4",TRANS 7
+#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzcXWbXyvabgun_NBKwbGHWrSQQZWE_1vQVzLOEG_mlDngvhtFmw7KbYMq1sC7uSIbutkTdpylj6BTSSbsZZzGyXYMLAtgbmYtKJ6M2gdYOIR8BDRJU6fZCnjtfTPfNDq_3FjYwLLTC5rCjLs89Dh4bK1Y4ZYekwU-WhoTB7xZNTVnZG4Dvj6hGs1z59sn/s320/59e42ba7-a1d7-45af-a69e-8ca05ca51029.jpg" group-title="Indonesia" server="TRANS 7 HD" event-duration="4",TRANS 7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/cubmu.php?clearkey=201
 https://key.iontv.id/drm/cubmu.php?play=201
+#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzcXWbXyvabgun_NBKwbGHWrSQQZWE_1vQVzLOEG_mlDngvhtFmw7KbYMq1sC7uSIbutkTdpylj6BTSSbsZZzGyXYMLAtgbmYtKJ6M2gdYOIR8BDRJU6fZCnjtfTPfNDq_3FjYwLLTC5rCjLs89Dh4bK1Y4ZYekwU-WhoTB7xZNTVnZG4Dvj6hGs1z59sn/s320/59e42ba7-a1d7-45af-a69e-8ca05ca51029.jpg" group-title="Indonesia" server="TRANS 7" event-duration="4",TRANS 7
+https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzcXWbXyvabgun_NBKwbGHWrSQQZWE_1vQVzLOEG_mlDngvhtFmw7KbYMq1sC7uSIbutkTdpylj6BTSSbsZZzGyXYMLAtgbmYtKJ6M2gdYOIR8BDRJU6fZCnjtfTPfNDq_3FjYwLLTC5rCjLs89Dh4bK1Y4ZYekwU-WhoTB7xZNTVnZG4Dvj6hGs1z59sn/s320/59e42ba7-a1d7-45af-a69e-8ca05ca51029.jpg" group-title="Indonesia" server="TRANS 7 V+" event-duration="4",TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=7&key=sdfknhfbnjwenfewbfj43244444554354233
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-#EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVy2kw5H7uXbFzwTnHXa7brNkyCIYlwQBW_-PYmc3TxxfNHb_2CRqNU7RegwkYBn2l2NldgFQzZfY1NH9AjcOgporQ-zTLwYH8GQYGPhGZ0jqEd3Kw55akcUV7DJTVhnJB_egEF1m2cSU3269lqMWF5jQ0SfQPztvwbX7HdGiTFOqGbbhleFBuC2EanFm/s320/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" group-title="Indonesia" server="TRANS TV" event-duration="4",TRANS TV
+#EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVy2kw5H7uXbFzwTnHXa7brNkyCIYlwQBW_-PYmc3TxxfNHb_2CRqNU7RegwkYBn2l2NldgFQzZfY1NH9AjcOgporQ-zTLwYH8GQYGPhGZ0jqEd3Kw55akcUV7DJTVhnJB_egEF1m2cSU3269lqMWF5jQ0SfQPztvwbX7HdGiTFOqGbbhleFBuC2EanFm/s320/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" group-title="Indonesia" server="TRANS TV HD" event-duration="4",TRANS TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf4f4ef3ffa4737b48a29e6c6be63a8:cc9cfb1f392e4b4180d79fa8178ab041
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+#EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVy2kw5H7uXbFzwTnHXa7brNkyCIYlwQBW_-PYmc3TxxfNHb_2CRqNU7RegwkYBn2l2NldgFQzZfY1NH9AjcOgporQ-zTLwYH8GQYGPhGZ0jqEd3Kw55akcUV7DJTVhnJB_egEF1m2cSU3269lqMWF5jQ0SfQPztvwbX7HdGiTFOqGbbhleFBuC2EanFm/s320/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" group-title="Indonesia" server="TRANS TV" event-duration="4",TRANS TV
+https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 #EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVy2kw5H7uXbFzwTnHXa7brNkyCIYlwQBW_-PYmc3TxxfNHb_2CRqNU7RegwkYBn2l2NldgFQzZfY1NH9AjcOgporQ-zTLwYH8GQYGPhGZ0jqEd3Kw55akcUV7DJTVhnJB_egEF1m2cSU3269lqMWF5jQ0SfQPztvwbX7HdGiTFOqGbbhleFBuC2EanFm/s320/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" group-title="Indonesia" server="TRANS TV V+" event-duration="4",TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=6&key=sdfknhfbnjwenfewbfj43244444554354233
@@ -567,7 +397,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/cubmu.php?clearkey=215
 https://key.iontv.id/drm/cubmu.php?play=215
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKsVxnuYTz8pswVymtFVhWKVpR5Mof7jvwZWfYYaGkD_z6yL0JV-Z9kUBZBRnLuPFk_DWW70BJPQZuEXl3o3slm2ufMHkRyCcudrNWOroDkiFMEfM9qVzCFDAg4HX9xZAneZlE7fmiHAbs2Cv3QeZpZ3PKixcvGnz9XfdR22KW0QdbTnJFUSoPFqrNjGky/s320/5c547aea-58b4-403c-97cb-400d033b31eb.png" group-title="Indonesia" server="SCTV" event-duration="4",SCTV
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKsVxnuYTz8pswVymtFVhWKVpR5Mof7jvwZWfYYaGkD_z6yL0JV-Z9kUBZBRnLuPFk_DWW70BJPQZuEXl3o3slm2ufMHkRyCcudrNWOroDkiFMEfM9qVzCFDAg4HX9xZAneZlE7fmiHAbs2Cv3QeZpZ3PKixcvGnz9XfdR22KW0QdbTnJFUSoPFqrNjGky/s320/5c547aea-58b4-403c-97cb-400d033b31eb.png" group-title="Indonesia" server="SCTV SD" event-duration="4",SCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=8&key=sdfknhfbnjwenfewbfj43244444554354233
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -610,18 +440,18 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
 #EXTVLCOPT:http-origin=https://www.youtube.com
 https://www.youtube.com/watch?v=rQJoEpzKkNk
-#EXTINF:-1 tvg-name="antv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoqh56kQTiOg7dglGKyBkoHo1r99o2b144t-btcehi3LgdDdp-N-54A2P4iYjIfbPDPv97u8zmcmM7OFatET1WWvAyszHCvwJbNFWvebJkZBtKn_H2JUNF3z-f-qkl3Xcilx0duTpb_sfAze90GPPI4YZkr2LMbNsur7blSY2-giYgpltGAlbzirC6NnsW/s1600/channel_115.png" group-title="Indonesia" server="antv SD" event-duration="3",antv
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=10&key=sdfknhfbnjwenfewbfj43244444554354233
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 #EXTINF:-1 tvg-name="antv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoqh56kQTiOg7dglGKyBkoHo1r99o2b144t-btcehi3LgdDdp-N-54A2P4iYjIfbPDPv97u8zmcmM7OFatET1WWvAyszHCvwJbNFWvebJkZBtKn_H2JUNF3z-f-qkl3Xcilx0duTpb_sfAze90GPPI4YZkr2LMbNsur7blSY2-giYgpltGAlbzirC6NnsW/s1600/channel_115.png" group-title="Indonesia" server="antv HD" event-duration="3",antv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/cubmu.php?clearkey=364
 https://key.iontv.id/drm/cubmu.php?play=364
+#EXTINF:-1 tvg-name="antv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoqh56kQTiOg7dglGKyBkoHo1r99o2b144t-btcehi3LgdDdp-N-54A2P4iYjIfbPDPv97u8zmcmM7OFatET1WWvAyszHCvwJbNFWvebJkZBtKn_H2JUNF3z-f-qkl3Xcilx0duTpb_sfAze90GPPI4YZkr2LMbNsur7blSY2-giYgpltGAlbzirC6NnsW/s1600/channel_115.png" group-title="Indonesia" server="antv SD" event-duration="3",antv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=10&key=sdfknhfbnjwenfewbfj43244444554354233
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 #EXTINF:-1 tvg-name="MDTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe73bFuBRfnc1ezBnMZ_mF1QyYDaGV-dCeejZEtG0QZPkrSqbHEitoay61pirhc8AZHp_KUdGBjfCVI5eEZ3g7K5wYvAmKZq3NkkFLz45e1AN5xVpefTl9dW73y5cOsY38QnY3cliDRc87kZkkaeI50UuU7VwVZU6NLjfCzDGTocjLTnecK4CEfm-mkN30/s320/download.jpg" group-title="Indonesia" server="MDTV" event-duration="4",MDTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
@@ -790,10 +620,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685910daca60191a29de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 #EXTINF:-1 tvg-name="MUSIC TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmQ0OZJJvVEq5boisIMwkpHfcIChypoTL5yUlEK9H9ueE5tASREXr7Xr9NgZ7IlhpcZBP9uX5wDl0aDmSffGaYXFy5BSeAD0oSUDmzHvcgQHszS-PblLsn0-x9CWu_6v6Fbj9YdtROvvxfauWJ7Ko-ce_5ySvdW6rGxM1KG9BJgx1cH1mkw6d6qSGXM8x2/s1600/channel_444.png" group-title="Indonesia" event-duration="4",MUSIC TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=143&key=sdfknhfbnjwenfewbfj43244444554354233
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 #EXTINF:-1 tvg-name="Musik Indonesia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5532f74e-07ee-4a70-b7d4-b5233778381d.png" group-title="Indonesia" event-duration="4",Musik Indonesia
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1029,7 +859,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 #EXTVLCOPT:http-origin=https://saka.kpores.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-name="TNT SPORT 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg8z7WD4PXL1viBvoblH0NmvQJOPOuNAtPkfj-nU1i03UO9rXuslVdQRvXohn8Iizh6dd6aXnw8qRsEZxrjfoy3xiJChht7gBw4yb1ldMmLgf2NVb0WpCwb2u8W5jyMWp-Zgik6EMvNs-GXvDQb1Zp54qoGVSak7qEn99OprjMAfdRANLCWCJ155cPPaSYP" group-title="Sports" server="TNT SPORT 2 HD" event-duration="4",TNT SPORT 3
+#EXTINF:-1 tvg-name="TNT SPORT 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg8z7WD4PXL1viBvoblH0NmvQJOPOuNAtPkfj-nU1i03UO9rXuslVdQRvXohn8Iizh6dd6aXnw8qRsEZxrjfoy3xiJChht7gBw4yb1ldMmLgf2NVb0WpCwb2u8W5jyMWp-Zgik6EMvNs-GXvDQb1Zp54qoGVSak7qEn99OprjMAfdRANLCWCJ155cPPaSYP" group-title="Sports" server="TNT SPORT 3 HD" event-duration="4",TNT SPORT 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 #EXTVLCOPT:http-referrer=https://saka.kpores.ru/
@@ -1278,6 +1108,20 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+#EXTINF:-1 tvg-name="FOX SPORTS 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg_54N_pLGzTlUDBDw9NFNf5YlQ4mlA2z79YIBabTQkCsREc3tVQK6ZQLtWnozj9G2rQi0I2rt5JShFIvGVYpdWUXroPOjpHb5eMa8G9y2nshUGz4KfmnJaRrO5o9BJdJmaDc0F2nWDHpiqHwEzGeGoP9FSJVBjJsIgLidSlRvytTTXdKBag30uGW61P0mw" group-title="Sports" event-duration="4",FOX SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+#EXTINF:-1 tvg-name="FOX PREMIUM" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg_54N_pLGzTlUDBDw9NFNf5YlQ4mlA2z79YIBabTQkCsREc3tVQK6ZQLtWnozj9G2rQi0I2rt5JShFIvGVYpdWUXroPOjpHb5eMa8G9y2nshUGz4KfmnJaRrO5o9BJdJmaDc0F2nWDHpiqHwEzGeGoP9FSJVBjJsIgLidSlRvytTTXdKBag30uGW61P0mw" group-title="Sports" event-duration="4",FOX PREMIUM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 #EXTINF:-1 tvg-name="italia 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPpYqiL1bFZgxKbdDu60EDQvoXBtHLa7P1mCACbfaprA&s=10" group-title="Sports" server="italia 1" event-duration="4",italia 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
@@ -1447,29 +1291,40 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1KrIjdh-n8jfk06dAFB-s6wASuqn0cKXiuVv0tRLwVrulFp_5-T66Vpgw8ROVcEm3mOcNbAVIlwZ6XK7vNWshyphenhyphenocab4U4b-NON03z67mHjre5GtkVDj04ggouOYwac_dn8OanaA4zQczU8zC6hqeXmtV3Bkyj_-4a3MWkf8mux5YvS2dVJaS0S1GfXiKk/s1600/20190628041940.jpg" group-title="Blockbuster" event-duration="4",HBO
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HboID.m3u8
-#EXTINF:-1 tvg-name="HBO HITS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Rg5M6Jvf8bM2dSI61t1eVTd4KJUqK77yYvFcRe8j9eFwlBNyN4zBFL3aegATYU-Jdemk-InGoXVEw6lkBaN43Kvv4sNeCbBjYaYgpzlWOSYZnoidpShV7iuxiGrmUHZQbvJsFxdi7Uzv9Ry3NdbM7rfXDIayQDtObQtmbfkldFj-y9Tt8-2krpKkdM1o/s1600/20190906064255.jpg" group-title="Blockbuster" event-duration="4",HBO HITS
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbohitsID.m3u8
-#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiud0D2AAwt_3iSsoX-6pz3cDh4BL7Q8ZGjM0FSK5HhRyZi_Ojt_0PqjQug-OA77dCj-xaGbg_xg4_221vR6DXNMhXclFwVCX-YJdnffv9sE8Q-2gimYTTNXINAGm_bXaRjs63-mrkDYpW4OmmGFaQRFb3_mnWtraNXbDsezkSsRBsXErYXaOox6w5KITak/s1600/20190906064620.jpg" group-title="Blockbuster" event-duration="4",HBO Signature
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbosignatureID.m3u8
-#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKyuTnHmUi9syF6Q9hp9fjxhqXVerqYdNG8T0UclyjQwysNYx0H1IbvnXwKQj4IkeiHjAF9oeRXlNAQJUcimjoC5I8UkuSPTnNG5IHug7B140BAS6Xn_ak6oOFFfV6wHkR9q5DCeDdiwsDLBYvPWeLVL01hTZW257x4Gsh46jkCP73RIZiBkXkGgOj96TF/s1600/20190906065312.jpg" group-title="Blockbuster" event-duration="4",HBO Family
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbofamilyID.m3u8
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1KrIjdh-n8jfk06dAFB-s6wASuqn0cKXiuVv0tRLwVrulFp_5-T66Vpgw8ROVcEm3mOcNbAVIlwZ6XK7vNWshyphenhyphenocab4U4b-NON03z67mHjre5GtkVDj04ggouOYwac_dn8OanaA4zQczU8zC6hqeXmtV3Bkyj_-4a3MWkf8mux5YvS2dVJaS0S1GfXiKk/s1600/20190628041940.jpg" tvg-id="HBOAsia.sg@SD" group-title="Blockbuster" event-duration="4",HBO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53f284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b
+https://key.iontv.id/drm/cubmu.php?play=226
+#EXTINF:-1 tvg-name="HBO HITS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Rg5M6Jvf8bM2dSI61t1eVTd4KJUqK77yYvFcRe8j9eFwlBNyN4zBFL3aegATYU-Jdemk-InGoXVEw6lkBaN43Kvv4sNeCbBjYaYgpzlWOSYZnoidpShV7iuxiGrmUHZQbvJsFxdi7Uzv9Ry3NdbM7rfXDIayQDtObQtmbfkldFj-y9Tt8-2krpKkdM1o/s1600/20190906064255.jpg" tvg-id="HBOHitsAsia.sg@SD" group-title="Blockbuster" event-duration="4",HBO HITS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ee1eba765e:4abf1fd26e8c45a5b6bae60c6ffc2b9
+https://key.iontv.id/drm/cubmu.php?play=228
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiud0D2AAwt_3iSsoX-6pz3cDh4BL7Q8ZGjM0FSK5HhRyZi_Ojt_0PqjQug-OA77dCj-xaGbg_xg4_221vR6DXNMhXclFwVCX-YJdnffv9sE8Q-2gimYTTNXINAGm_bXaRjs63-mrkDYpW4OmmGFaQRFb3_mnWtraNXbDsezkSsRBsXErYXaOox6w5KITak/s1600/20190906064620.jpg" tvg-id="HBOSignatureAsia.sg@SD" group-title="Blockbuster" event-duration="4",HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af28fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ff2b9
+https://key.iontv.id/drm/cubmu.php?play=2261
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKyuTnHmUi9syF6Q9hp9fjxhqXVerqYdNG8T0UclyjQwysNYx0H1IbvnXwKQj4IkeiHjAF9oeRXlNAQJUcimjoC5I8UkuSPTnNG5IHug7B140BAS6Xn_ak6oOFFfV6wHkR9q5DCeDdiwsDLBYvPWeLVL01hTZW257x4Gsh46jkCP73RIZiBkXkGgOj96TF/s1600/20190906065312.jpg" tvg-id="HBOFamilyAsia.sg@SD" group-title="Blockbuster" event-duration="4",HBO Family
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af28fd590217ee1eba765e:4abf1fd26e8c45a5b6bae60cf6c2b9
+https://key.iontv.id/drm/cubmu.php?play=189
+#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cf0b533fe73e3/20190902064142.png" group-title="Blockbuster" server="Warner TV HD" event-duration="4",Warner TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://key.iontv.id/drm/cubmu.php?play=2262
 #EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cf0b533fe73e3/20190902064142.png" group-title="Blockbuster" server="Warner TV SD" event-duration="4",Warner TV
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8DPYGd9rW1sT3BK70mhEnU9tYYgrY6wFHy7HIIrbvKnB_9uBaEJXPEXAPYgQ5QyRGEKhYIhqs_qLjzeWMaB36qKWUGFJN6cK7BkXFG85JOwRd5Yi6hOBFXsVXyNYKX9KwE5vbPlNDR_EujyMO2Ii5Z2wjdNtW0oOkfotC37QgwuN3yrYVWXwPPX1L8_ss/s1600/20190829060720.jpg" group-title="Blockbuster" server="CINEMAX SD" event-duration="4",CINEMAX
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbocinemaxID.m3u8
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8DPYGd9rW1sT3BK70mhEnU9tYYgrY6wFHy7HIIrbvKnB_9uBaEJXPEXAPYgQ5QyRGEKhYIhqs_qLjzeWMaB36qKWUGFJN6cK7BkXFG85JOwRd5Yi6hOBFXsVXyNYKX9KwE5vbPlNDR_EujyMO2Ii5Z2wjdNtW0oOkfotC37QgwuN3yrYVWXwPPX1L8_ss/s1600/20190829060720.jpg" group-title="Blockbuster" server="SUB INDO" event-duration="4",CINEMAX
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=68516d6739344e466e39574749776874:53535134585a73547a63454c6d674c66
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://key.iontv.id/drm/cubmu.php?play=190
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8DPYGd9rW1sT3BK70mhEnU9tYYgrY6wFHy7HIIrbvKnB_9uBaEJXPEXAPYgQ5QyRGEKhYIhqs_qLjzeWMaB36qKWUGFJN6cK7BkXFG85JOwRd5Yi6hOBFXsVXyNYKX9KwE5vbPlNDR_EujyMO2Ii5Z2wjdNtW0oOkfotC37QgwuN3yrYVWXwPPX1L8_ss/s1600/20190829060720.jpg" group-title="Blockbuster" server="SUB THAILAND" event-duration="4",CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvie4DVu2DD7NgoqSrYAppZaZNxafB0kE0H7KLjB263g&s=10" group-title="Blockbuster" event-duration="4",KBS World
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://key.iontv.id/drm/cubmu.php?play=2263
 #EXTINF:-1 tvg-name="MNX Hollwood's Wildchild" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhBHjutA1ephHT02iQKUU15682sFIuj3qHKOU8oZCGWnZy_MDv13pY6qulciK-qsAdsTPa92RqoFROnTve35OuNd1KpJR7Fr4DXD4Swh_yIvud7EGpxkA08_yv8SOKm5IZet8JdC4Sm-YS_LWuiinpkmMxITmcUiZnGx0sHTIZAVKC7hMgvvCWviegdLYSD" group-title="Blockbuster" event-duration="4",MNX Hollwood's Wildchild
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
@@ -1479,18 +1334,16 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #EXTINF:-1 tvg-name="HITS MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjVDi5osuZObng4AHwV0sPo3OB98SJsCKjjzu9KG8yFnRJyK9aVgC1rg7Sw_LS4BMHi36i0JYD6xN-ZswPnbhwr5PS2Jgjdu74akiU9mJbdTB0oD8BlPUggcOBG0b3jw6OTkAdfql5GwqIGdhU9uemRsAE4inS40zARQWOiF80MxZxciG6449smYofzF85W" group-title="Blockbuster" event-duration="4",HITS MOVIES
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=07af9ce05d8f4960a1b9113e7fdb8e7e:12b66b374d9c804f7311cb6a8d421c8c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=43&key=sdfknhfbnjwenfewbfj43244444554354233
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 #EXTINF:-1 tvg-name="HITS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhSQDs6rRuJv2oGgiwgSdGUmnLY7arg7YhxzTrLGq9AjmLVUT7_CnbcDaW6Fn3B7fCS5gXH-RcsXwkQQ2_sea_aGetxah6BLbQNpwLtKWuuUqaSZcYJugV3a80Js8KVSWFuZv-2wVdsaT4XFDqVznGakhpz0eLrbB0g7A5YESc2NvP5xBdnQtUm39OdSRIB" group-title="Blockbuster" event-duration="4",HITS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=44&key=sdfknhfbnjwenfewbfj43244444554354233
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 #EXTINF:-1 tvg-name="HITS NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2lKTmoh5pfEX4_SgFD7Ppga_rG9KknIU4QgEnuHgQkw&s" group-title="Blockbuster" event-duration="4",HITS NOW
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1498,60 +1351,43 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ4Jn9qzIfoeayvrypqbg4SvxQNtRJv-gkJsDQbTorswLKitjmzEZkaJDc2oACUgnb_BBMAhXxCOfcqZJ2nD-aD_PvUGAv-t2g8vkzDrcAVvNd3RR3Jo9o042LRa2B_jhWY0E4dvt1DvegQbT7Fns8XLPoqcx-Dxm2I9pWHv7JZPYPbvg9MDeLNHMHPg9p/s1600/axn_150x150.jpg" group-title="Blockbuster" server="AXN HD" event-duration="4",AXN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b637a696d4f365435777046434b334a:5231594a316b306d7757737a56316d5a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ4Jn9qzIfoeayvrypqbg4SvxQNtRJv-gkJsDQbTorswLKitjmzEZkaJDc2oACUgnb_BBMAhXxCOfcqZJ2nD-aD_PvUGAv-t2g8vkzDrcAVvNd3RR3Jo9o042LRa2B_jhWY0E4dvt1DvegQbT7Fns8XLPoqcx-Dxm2I9pWHv7JZPYPbvg9MDeLNHMHPg9p/s1600/axn_150x150.jpg" group-title="Blockbuster" server="AXN SD" event-duration="4",AXN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=60&key=sdfknhfbnjwenfewbfj43244444554354233
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 #EXTINF:-1 tvg-name="GALAXY PREMIUM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidIlrkeVq21Gv0hoL3KKREGZ4CS9RZskaqtGZaUt2v67GohfC558Hf-wR3RvnUXg-NMEJaWfV__9RFv-xbGNitPJkDPrS8rRlaea4W1oexFUKuTdDES4WJiSWmIyBlQW1N0CcHDUnqaa_UmfBmG-gDjm2DFgaPuK0SNUiQXZVkJL7xQhhcYNy8gfnYCMjg/s1600/channel_12.png" group-title="Blockbuster" event-duration="4",GALAXY PREMIUM
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=50&key=sdfknhfbnjwenfewbfj43244444554354233
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 #EXTINF:-1 tvg-name="GALAXY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgK7o7BtjJypBA9dWc6EGvCMIl4o6qa8iKPHnhhulH0QaE0mL7mbMdOZNtkFobDIu6diJXioq8PWVp5phU11uIjLs3huR6erYsIbFer8LQv5n6Mx8-FsIwrL3tuu-6mbrx6ecTTMUR5mriBasnkT8gkO6nAPXRlqfdHD_49yGgOZlIFsqnopcd5s5sB8IGy" group-title="Blockbuster" event-duration="4",GALAXY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=52&key=sdfknhfbnjwenfewbfj43244444554354233
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 #EXTINF:-1 tvg-name="KIX" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhcfgZskW9eOHjp1cWzKCXjmvjp43OaEzYFOa2mySdsP_UnAskN7CNtZGsSv9c8U515G4BEQrdq5tEWW3zTSpsxnslg4Tnclj23nd2YrdTNeziXFV_qw4pr8BT6YdELU6D1boc16dAUrA5XZnEN8mVtBBW5V4CGsEAu_waOksmeQ53Hjxg77dscv8P1Mtp8" group-title="Blockbuster" event-duration="4",KIX
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=55&key=sdfknhfbnjwenfewbfj43244444554354233
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 #EXTINF:-1 tvg-name="thrill" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEixgvjMyZSyo2-0U9Xz8kSHQ6jgMY2xS_XBSoU09DXllMN4nbhFZGNhEJ6Wp0dkvcY4LtjU_iCCgraWk2eM3Ti1_fWPtBRd5BXw0QB4h-wTpgMaXqQZgQhD65LN9fIm8PyAMeVhKG6Ih3loOnafxokiAucQI7yyYcJGX5ETrsyEU7cxNTget8UPrLRYrcsx" group-title="Blockbuster" server="SD" event-duration="4",thrill
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=56&key=sdfknhfbnjwenfewbfj43244444554354233
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 #EXTINF:-1 tvg-name="thrill" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEixgvjMyZSyo2-0U9Xz8kSHQ6jgMY2xS_XBSoU09DXllMN4nbhFZGNhEJ6Wp0dkvcY4LtjU_iCCgraWk2eM3Ti1_fWPtBRd5BXw0QB4h-wTpgMaXqQZgQhD65LN9fIm8PyAMeVhKG6Ih3loOnafxokiAucQI7yyYcJGX5ETrsyEU7cxNTget8UPrLRYrcsx" group-title="Blockbuster" server="HD" event-duration="4",thrill
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68587f789fe0188421264d560f5/manifest.mpd
 #EXTINF:-1 tvg-name="CELESTIAL MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKj365MR5dJMiiFX5-M39WI4PUpdC9hRaMs1FTyc-jp0YbwA20cF2v1Qt1Na_2UBsBhP_VFSQohimm1g9rs0Ano1z1pnB1SKIAV2lI21zWwKvmt2sFQPlHuYYNxgfr9-K2us7s_D05R0fpKF3DpctQxPdS6dmM5jYIhWbrcANew1jKsppKDAmPtDAQPyU4/s320/f124427a-931e-47d1-ab50-1b29a7a3e406.jpg" group-title="Blockbuster" server="SD" event-duration="4",CELESTIAL MOVIES
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=57&key=sdfknhfbnjwenfewbfj43244444554354233
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 #EXTINF:-1 tvg-name="CELESTIAL MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKj365MR5dJMiiFX5-M39WI4PUpdC9hRaMs1FTyc-jp0YbwA20cF2v1Qt1Na_2UBsBhP_VFSQohimm1g9rs0Ano1z1pnB1SKIAV2lI21zWwKvmt2sFQPlHuYYNxgfr9-K2us7s_D05R0fpKF3DpctQxPdS6dmM5jYIhWbrcANew1jKsppKDAmPtDAQPyU4/s320/f124427a-931e-47d1-ab50-1b29a7a3e406.jpg" group-title="Blockbuster" server="HD" event-duration="4",CELESTIAL MOVIES
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1584,22 +1420,22 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 #EXTINF:-1 tvg-name="CINEEDGE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjU4si1WWGfblWEZm7zTEfyr214TeO6sbxMGyyS8LXmJhkH1qjv4Zdj6q0EkrCjagDIJJzI957KYgsJWPembXN0CUbS_OZzVsIjvyyr8Y5apSWihuFg4A48066GVhMdUd4Mr24v2ZBsVVzeNr5S9OX4j7erFZJP5N0tzOygRT0w4cd4Qw6BT3FTwU-7Ko_J" group-title="Blockbuster" event-duration="4",CINEEDGE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=57&key=sdfknhfbnjwenfewbfj43244444554354233
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 #EXTINF:-1 tvg-name="UNIQUES" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgfbxA806kp4jFsV8R3sNqJqrZkMRQx0PMQPFQqKpN4xsrhT3OJ1YBffzI3RSe8egTSsW1Ex3BhgNUzlT9NAgM0lZRaDrB5-Yvu_A1qQQdOBu4EXyaSM6gU4_hmq-4ojWiDnSDk1j9mVQSNj30eC_3BpodbrtS6R2ZUwcEeFKIrEiorl00vM8_gdxdJWJs8" group-title="Blockbuster" event-duration="4",UNIQUES
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=48&key=sdfknhfbnjwenfewbfj43244444554354233
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 #EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjojiHW4snc26FUMCBlyXO7Xxg-ZOFNPh34ZWwDRRQL4Ohwmcee9nMFmsb1IWXnantvgpWVDpxf_l8vuQDyRelezs2jeIRDZslt-YIv9YRu9Z8J1-upOxvQA4l0nnSw7LKYd_E5wswAlwg4/s1600/Universal-Studio_Logo.jpg" group-title="Blockbuster" event-duration="4",STUDIO UNIVERSAL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=49&key=sdfknhfbnjwenfewbfj43244444554354233
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 #EXTINF:-1 tvg-name="imc channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQezxT55xkd4XmPffLi7AAUuPkQMRpMmwrF4-QDnxjhAA&s=10" group-title="Blockbuster",imc channel
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1610,24 +1446,22 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 #EXTINF:-1 tvg-name="superrix" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi9xNJtl3_hfWrAsaODILjDbcmK-_SgnhcLop09IB4WeBZgHpOrCzZQvLxZF86xzDGBj_baFB9vFfHeGtZVHnHjOP1eNpGFQKUarWVVjQDY4TRfRUfbzC_IT6g7ToYi9mptIuPbYFizgl4rPlLqZikO3U5anNbr7XY-JB2CJ-PwL0zD6DvXxgm4A3BBXS0B" group-title="Blockbuster" event-duration="4",superrix
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=49&key=sdfknhfbnjwenfewbfj43244444554354233
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 #EXTINF:-1 tvg-name="ORIGINALS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjhVgFaaazNhJJEqCWNSEMsFJe8OAb1wEG9QIrzLVrJ7abBpsGlfIF20M56NUNq8YctdIZMmOtEzytN7sgh46K8w5PPS8yDuz5AULj8lAQXtevfsKV30vZmZro5UGGgHkgWT3Nbu7dKK7Yo46Ijk_qcscnRZLhWnGG6SzRzGZCor8r9BYahBBbd96z0rN8I" group-title="Blockbuster" event-duration="4",ORIGINALS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
-#EXTINF:-1 tvg-name="ZEE BIOSKOP" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjJjCHqPJvkRaP7-Ji52bll393HZVz9gycswpRNLjYDGb8uhz0sQUpnu-orq5EUvG9Qz04n5DvTY14h-6sbVsPh8JvDTHExaJp63b8VaJYR4rMbaHwRbKwVEo8pIwiSBB5zjamVgHpIL-Lp8TdeguTrVy6GhfdoVtpXjsBHbyHbrB08kTujCrKSrqvnUKfP" group-title="Blockbuster",ZEE BIOSKOP
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=47&key=sdfknhfbnjwenfewbfj43244444554354233
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
+#EXTINF:-1 tvg-name="ZEE BIOSKOP" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjJjCHqPJvkRaP7-Ji52bll393HZVz9gycswpRNLjYDGb8uhz0sQUpnu-orq5EUvG9Qz04n5DvTY14h-6sbVsPh8JvDTHExaJp63b8VaJYR4rMbaHwRbKwVEo8pIwiSBB5zjamVgHpIL-Lp8TdeguTrVy6GhfdoVtpXjsBHbyHbrB08kTujCrKSrqvnUKfP" group-title="Blockbuster" event-duration="4",ZEE BIOSKOP
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=50&key=sdfknhfbnjwenfewbfj43244444554354233
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjoHid_ebqa2CYsgi0kKugVWZoADjA849nATn_d7M6Rq6nd6WWuUqNGOubBvnYCwrMwIgQ_M00VboUV9XYl252MaNEYjiE5KapqULZ9gvfPhi_A6x93Q4_IAg-acMjhdMDq9ge6Quiw5TIjmI1CTjj6D9vhaErBRnPch1PuZ9125X5ZtPuK89OD14V_0L9N" group-title="Blockbuster" server="tvN SD" event-duration="4",tvN
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1652,22 +1486,6 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
-#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f5589608831bb/20191230064104.png" group-title="Blockbuster" server="KBS World SD" event-duration="4",KBS World
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a6f544254647349364d6d5139375030:4a584e7038734e664f654c6a4d52474d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f5589608831bb/manifest.mpd
-#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856f08326c016f5589608831bb/20191230064104.png" group-title="Blockbuster" server="KBS World HD" event-duration="4",KBS World
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpdnew/KBSWorldHD.mpd
-#EXTINF:-1 tvg-name="Kplus" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc9HSf-y5gHB1peTkQuFoVBjq5Xy6Y51VfrM-mdlucmT_jkn-71HweG22BialI05fHXkOwXTPwx3Jx1yRL1hRz-93L6-uEKE8Pis0mHoa0AaYIwBzmXajB2K2RcMViRUd7874UXDks24PbtdtiaDRQmb962AM1ORGsfIGHuusK_nBah64_aTu8SejMOlK0/s1600/image_ch_kplus.png" group-title="Blockbuster" event-duration="4",Kplus
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
 #EXTINF:-1 tvg-name="BIOSKOP INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ6IXM8ROHwU6CEDtxEMKEiUwbzIW2XJW83IcpVvit9miUIVCsccEP_j8b013Q7-8KJ64LvLSBJ-1DmNtj-hz8g2OPS5aC7uXvUXp3H6Dl5Z-SgNrp9phwu5jiiY8SuHXCOSnx9vgEV__iZBwhSgPt4OrOv-U9EyNQ196PwaKqXJ-8IASIVK5amlhxhAh5/s320/5613ec24-ed04-42e5-917b-dee0e0ec074a.png" group-title="Blockbuster" server="BIOSKOP INDONESIA" event-duration="4",BIOSKOP INDONESIA
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
 #EXTINF:-1 tvg-name="BIOSKOP INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ6IXM8ROHwU6CEDtxEMKEiUwbzIW2XJW83IcpVvit9miUIVCsccEP_j8b013Q7-8KJ64LvLSBJ-1DmNtj-hz8g2OPS5aC7uXvUXp3H6Dl5Z-SgNrp9phwu5jiiY8SuHXCOSnx9vgEV__iZBwhSgPt4OrOv-U9EyNQ196PwaKqXJ-8IASIVK5amlhxhAh5/s320/5613ec24-ed04-42e5-917b-dee0e0ec074a.png" group-title="Blockbuster" server="BIOSKOP INDONESIA HD" event-duration="4",BIOSKOP INDONESIA
@@ -1689,12 +1507,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 #EXTINF:-1 tvg-name="INWILD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg7zjHASYS0EltWTFswnooF7SwbDZrIKjpBdgq-WQHWP-c1iPXYJ9fOQozLj33-fj0cXOPSIDMITICgOZjQejEu333xmW2LgWL3lP7N-DFTyfcJsMgit3g0sPM-IbgFDl5Q7GF7I1c55QMCL3MYHLAeFmLIUCmaDuggfWnBLJlvvVKysjAMtK-MgV3KkN9Y" group-title="Knowledge" event-duration="4",INWILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-name="animal planet" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHPvPEMarauqTzIjDQ60ViexxcmkcdbiBFgT_bHgDCtsshhleEbpo6Mvu8PwQtcxSh6GH1Z4C9klL-2n8oUObl0Wu1dfC00Hw0rMgT8W1TzqC70MAmB2l2eo1lMRMz0PxERlH95JJ9LO750F8qhyphenhyphenq92LfHWVPOhrBZlE8OZcPnCO4ZGMlOKxqL0IeCgvGY/s320/images%20(1).jpg" group-title="Knowledge" server="animal planet HD" event-duration="4",animal planet
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 #EXTINF:-1 tvg-name="Outdoor Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIO2Drvq3ver79VHJBW39ztQe-qQ-tW2G6t7I5KYLMaQ&s=10" group-title="Knowledge" server="NO SUB" event-duration="4",Outdoor Channel
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
@@ -1706,9 +1518,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 #EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjRZzHLGFVEPxm0o-B8vn9odw1sv1aXtPW_F1qyfYMGE1U8GpcKukSTPTztslpbFvD8hONbuBqNifM55IaKw2GDSmN0Hs4kUK6l-PoJZdzaDjecNrbdw0gM5NDZaaocidaLGYi8atywaUQGVy8fFdV1QVVLYEg7wKhGeS1RnzdVF7qzdfFn9213zDMoBR4X" group-title="Knowledge" event-duration="4",LOVE NATURE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=66&key=sdfknhfbnjwenfewbfj43244444554354233
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
 #EXTINF:-1 tvg-name="CRIME + INVESTIGATION" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi19BBomtEYtweJY_bK1P0E1bCgcNtqvOSA3v_G6yXO5-SY_s26JWi8C3ELYdU5REB3vswpM9Sy0hgxAIVAsPGai8CdMeTi3noCckT-wP52vtDE3K9LDU-m0w1aXatygaPs-4Ev7cFFXyW-NozO2gYUJDH6GqJBZR650QxVgstEaPpMEjzl3eD05DfXw2Ek" group-title="Knowledge" event-duration="4",CRIME + INVESTIGATION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1730,10 +1543,10 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://cdn.nng.cloudns.us/live/m3u8/knl/0d3dbf8c78f1fb7.m3u8
 #EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhs8RPCGqOdbDLlLHkPYVylsmsU7I_bpMvzDRYdWLEpt2vJoleyTdw1ev3uY8IasL_Dh9jqIs5WxFraz323woNDhAxt4YqTXwMqiH5XWlo06MlrpwB1lKjesnEqY2jAJ5Da094MJovGvnYyxQdUoG4gmSbYjB87HV5zlcXP8mblD55mXkHxTRYFdc6H08Rk" group-title="Knowledge" event-duration="4",HISTORY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.iontv.id/drm/index.drm.php?id=67&key=sdfknhfbnjwenfewbfj43244444554354233
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
 #EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh0ohRzOphLDcU2aO18XC6-_9-ep-jbS_wMjZBoXqJ601yi6SPY0UfN9ceW5VU1c8pgIngeq-WuZQZ4KJPr5UQcNv4FGyYNvyHXyK7HWpOP2F2L7XbdNTxrbWNS5yw_xyse5wTctlBi25n_Z9tS26-282ET8JAXmK6VaI9fU7C0T-_CZvRMKnft2GGeU4_e" group-title="Knowledge" server="Lifetime" event-duration="4",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
